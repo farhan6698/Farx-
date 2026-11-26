@@ -1,0 +1,12 @@
+MODE CODE
+LET n = 1
+WHILE n <= 5 DO
+    PRINT n
+    SET n = n + 1
+END WHILE
+IF n == 6 THEN
+    PRINT "Loop completed"
+ELSE
+    PRINT "Unexpected result"
+END IF
+END MODE

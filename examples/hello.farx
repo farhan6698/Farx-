@@ -1,0 +1,6 @@
+MODE CODE
+LET greeting = "Hello from FARX NEXUS"
+LET answer = 6 * 7
+PRINT greeting
+PRINT answer
+END MODE

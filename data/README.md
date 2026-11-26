@@ -1,0 +1,1 @@
+# FARX Reference Data\n\n`farx_catalog.json` is a structured catalogue for documentation, search, schema validation, and future IDE features. Catalogue records are reference/test data; they do not mean every listed subsystem is implemented in the runtime.\n
